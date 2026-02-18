@@ -9,7 +9,7 @@ address_optional:
     http://mirror.mephi.ru/almalinux-kitten
     rsync://mirror.mephi.ru/almalinux-kitten
     ftp://mirror.mephi.ru/almalinux-kitten
-update_frequency: 8h
+update_frequency: 3h
 sponsor: NRNU MEPhI
 sponsor_url: https://eng.mephi.ru/
 email: mirror-private@ut.mephi.ru
