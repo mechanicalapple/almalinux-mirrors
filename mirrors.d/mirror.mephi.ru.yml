@@ -1,14 +1,14 @@
 ---
 name: mirror.mephi.ru
 address:
-  http://mirror.mephi.ru/almalinux
-  rsync://mirror.mephi.ru/almalinux
-  ftp://mirror.mephi.ru/almalinux
+  http: http://mirror.mephi.ru/almalinux
+  rsync: rsync://mirror.mephi.ru/almalinux
+  ftp: ftp://mirror.mephi.ru/almalinux
 address_optional:
   kitten:
-    http://mirror.mephi.ru/almalinux-kitten
-    rsync://mirror.mephi.ru/almalinux-kitten
-    ftp://mirror.mephi.ru/almalinux-kitten
+    http: http://mirror.mephi.ru/almalinux-kitten
+    rsync: rsync://mirror.mephi.ru/almalinux-kitten
+    ftp: ftp://mirror.mephi.ru/almalinux-kitten
 update_frequency: 3h
 sponsor: NRNU MEPhI
 sponsor_url: https://eng.mephi.ru/
